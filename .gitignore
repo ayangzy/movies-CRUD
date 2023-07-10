@@ -10,6 +10,7 @@ autom4te.cache/
 *.tar.gz
 tarballs/
 test-results/
+appsettings.json
 
 # Mac bundle stuff
 *.dmg
@@ -243,7 +244,7 @@ publish/
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
-appsettings
+
 
 # Microsoft Azure Web App publish settings. Comment the next line if you want to
 # checkin your Azure Web App publish settings, but sensitive information contained
